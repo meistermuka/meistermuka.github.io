@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Technical Proposal: Banana Tracker"
+date:   2016-11-08 15:53:00 -0500
+categories: update
+---
 # Banana Tracker
 ## Technical Proposal
 
