@@ -24,7 +24,7 @@ A simple location on the web to keep notes on the prices of bananas in different
 The following is an initial draft of the tables for such an endavour:
 
 ### item table
-<table>
+<table style="border: 1px solid #000">
   <tr>
   <th>name</th>
   <th>type</th>
@@ -40,7 +40,7 @@ The following is an initial draft of the tables for such an endavour:
 </table>
 
 ### item_price table
-<table>
+<table style="border: 1px solid #000">
   <tr>
   <th>name</th>
   <th>type</th>
@@ -60,7 +60,7 @@ The following is an initial draft of the tables for such an endavour:
 </table>
 
 ### location table
-<table>
+<table style="border: 1px solid #000">
   <tr>
   <th>name</th>
   <th>type</th>
