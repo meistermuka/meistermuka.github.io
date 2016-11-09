@@ -9,8 +9,9 @@
     // Positioning context for the mobile navigation icon
     position: relative;
 }
-table tr td {
+table tr td th {
     border: 1px solid #000;
+    border-collapse: collapse;
 }
 .site-title {
     font-size: 26px;
