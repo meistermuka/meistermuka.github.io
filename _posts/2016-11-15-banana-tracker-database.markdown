@@ -15,8 +15,11 @@ The following is what I believe will be relevant data stored in the database:
 
 **Items**
 * item_id: a unique identifier for the banana
+
 * item_location_id: a unique identifier for the location of the banana (the store)
+
 * item_category_id: a unique identifier used to include the item in multiple sub groups
+
 
 **Prices**
 * price_id: a unique identifier for a price
